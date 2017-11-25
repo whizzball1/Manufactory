@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "0001-01-01T00:00:00",
+  "lastPlayed": "2017-11-25T21:43:40.4474063Z",
   "manifest": {
     "minecraft": {
       "version": "1.12.2",
@@ -530,11 +530,1062 @@
   "allocatedMemory": 6144,
   "guid": "dd8050db-cd42-46c5-b828-b048c5cecb2c",
   "gameTypeID": 432,
-  "installPath": "C:\\Users\\Spirit\\Documents\\Curse\\Instances\\Manufactory 1.0\\",
+  "installPath": "C:\\Users\\eloqu\\Documents\\Curse\\Minecraft\\Instances\\Manufactory\\",
   "name": "Manufactory 1.0",
-  "cachedScans": [],
+  "cachedScans": [
+    {
+      "folderName": "mcjtylib-1.12-2.5.0.jar",
+      "fingerprint": 41465131,
+      "fileDateHash": 2636836410,
+      "sectionID": 6,
+      "individualFingerprints": [
+        41465131
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.5008606Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.7634385Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9111401Z",
+      "fileCount": 1,
+      "fileSize": 323206
+    },
+    {
+      "folderName": "compactmachines3-1.12.2-3.0.3-b169.jar",
+      "fingerprint": 274680366,
+      "fileDateHash": 1017425085,
+      "sectionID": 6,
+      "individualFingerprints": [
+        274680366
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.6511385Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.5391004Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9151449Z",
+      "fileCount": 1,
+      "fileSize": 562262
+    },
+    {
+      "folderName": "modtweaker-4.0.5.jar",
+      "fingerprint": 3855600012,
+      "fileDateHash": 4135920244,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3855600012
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.6911516Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.766444Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9111401Z",
+      "fileCount": 1,
+      "fileSize": 172088
+    },
+    {
+      "folderName": "Architecture Lab",
+      "fingerprint": 1900377101,
+      "fileDateHash": 2118145011,
+      "sectionID": 17,
+      "individualFingerprints": [
+        89957531,
+        123319329,
+        224251200,
+        232514156,
+        237396705,
+        274157409,
+        316027915,
+        335465339,
+        424133558,
+        424133558,
+        564902369,
+        636428117,
+        682895157,
+        744804045,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        770582743,
+        772215132,
+        808302698,
+        808302698,
+        808302698,
+        808302698,
+        808302698,
+        808302698,
+        808302698,
+        947539689,
+        1056978467,
+        1065271897,
+        1117350617,
+        1136652239,
+        1178263984,
+        1212506083,
+        1442157561,
+        1706976351,
+        1790702736,
+        1803953797,
+        1861661399,
+        1909212967,
+        2018150489,
+        2171838250,
+        2195043658,
+        2195043658,
+        2195043658,
+        2195043658,
+        2195043658,
+        2195043658,
+        2195043658,
+        2643933950,
+        2662330493,
+        2701398837,
+        2826821598,
+        2877778169,
+        2996701644,
+        3052982433,
+        3160177510,
+        3184781582,
+        3213008795,
+        3227885455,
+        3280916550,
+        3280916550,
+        3383409723,
+        3427412416,
+        3465701048,
+        3484041603,
+        3496997340,
+        3539467033,
+        3582932549,
+        3698527259,
+        3807980558,
+        3838910369,
+        4078809135,
+        4097520243,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4213863462,
+        4272588933
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T21:42:52.9571622Z",
+      "lastWriteTimeUtc": "2017-11-25T20:37:30.6776397Z",
+      "queryTimestamp": "2017-11-25T21:42:53.4368914Z",
+      "fileCount": 19,
+      "fileSize": 0
+    },
+    {
+      "folderName": "forestry_1.12.2-5.7.0.212.jar",
+      "fingerprint": 2540112142,
+      "fileDateHash": 1916684246,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2540112142
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:15.5013846Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.6342449Z",
+      "queryTimestamp": "2017-11-25T20:07:19.916147Z",
+      "fileCount": 1,
+      "fileSize": 4404795
+    },
+    {
+      "folderName": "AdvancedRocketry-1.12.2-1.2.5a-23.jar",
+      "fingerprint": 4003345144,
+      "fileDateHash": 1590858432,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4003345144
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.1222085Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:45.4629367Z",
+      "queryTimestamp": "2017-11-25T20:07:19.914144Z",
+      "fileCount": 1,
+      "fileSize": 11533950
+    },
+    {
+      "folderName": "AutomatedRedstone-1.12.2-6.0.2.jar",
+      "fingerprint": 3822580645,
+      "fileDateHash": 3797986360,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3822580645
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.2974788Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:45.5490662Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9081338Z",
+      "fileCount": 1,
+      "fileSize": 290013
+    },
+    {
+      "folderName": "StevesCarts-1.12.2-2.4.12.62.jar",
+      "fingerprint": 3828494986,
+      "fileDateHash": 4069604665,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3828494986
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.8465201Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.2811715Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9081338Z",
+      "fileCount": 1,
+      "fileSize": 2274937
+    },
+    {
+      "folderName": "jeibees-0.9.0.5-mc1.12.2.jar",
+      "fingerprint": 12823422,
+      "fileDateHash": 1356568653,
+      "sectionID": 6,
+      "individualFingerprints": [
+        12823422
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.3888179Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.7564302Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9101372Z",
+      "fileCount": 1,
+      "fileSize": 117480
+    },
+    {
+      "folderName": "base-1.12-3.4.2.jar",
+      "fingerprint": 3432956776,
+      "fileDateHash": 4265843096,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3432956776
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.3116279Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.4549723Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9061316Z",
+      "fileCount": 1,
+      "fileSize": 446559
+    },
+    {
+      "folderName": "Draconic-Evolution-1.12-2.3.5.269-universal.jar",
+      "fingerprint": 137500591,
+      "fileDateHash": 1375562430,
+      "sectionID": 6,
+      "individualFingerprints": [
+        137500591
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:15.0967016Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:46.733882Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9071399Z",
+      "fileCount": 1,
+      "fileSize": 5519460
+    },
+    {
+      "folderName": "immersivetech-1.12-1.3.4.jar",
+      "fingerprint": 1342809455,
+      "fileDateHash": 2550728082,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1342809455
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.0691987Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.6734146Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9191514Z",
+      "fileCount": 1,
+      "fileSize": 473774
+    },
+    {
+      "folderName": "ThermalFoundation-1.12-2.3.6.16-universal.jar",
+      "fingerprint": 460606736,
+      "fileDateHash": 904186839,
+      "sectionID": 6,
+      "individualFingerprints": [
+        460606736
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.9325191Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.3738481Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9071399Z",
+      "fileCount": 1,
+      "fileSize": 1901184
+    },
+    {
+      "folderName": "ImmersiveEngineering-0.12-75.jar",
+      "fingerprint": 1903779484,
+      "fileDateHash": 2182461176,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1903779484
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:15.8628799Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:46.8570732Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9191514Z",
+      "fileCount": 1,
+      "fileSize": 5920528
+    },
+    {
+      "folderName": "modularmachinery-1.6.5.jar",
+      "fingerprint": 3566412622,
+      "fileDateHash": 3440729451,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3566412622
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.6931525Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.7724535Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9151449Z",
+      "fileCount": 1,
+      "fileSize": 475894
+    },
+    {
+      "folderName": "buildcraft-7.99.12.jar",
+      "fingerprint": 3098659980,
+      "fileDateHash": 1604590079,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3098659980
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.3515613Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.5310879Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9071399Z",
+      "fileCount": 1,
+      "fileSize": 4243085
+    },
+    {
+      "folderName": "industrialcraft-2-2.8.16-ex112.jar",
+      "fingerprint": 2030127425,
+      "fileDateHash": 1333991545,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2030127425
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.0753386Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.7444121Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9051323Z",
+      "fileCount": 1,
+      "fileSize": 7122826
+    },
+    {
+      "folderName": "CodeChickenLib-1.12-3.1.3.313-universal.jar",
+      "fingerprint": 1931211948,
+      "fileDateHash": 1464654423,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1931211948
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.5909275Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:46.6437461Z",
+      "queryTimestamp": "2017-11-25T20:07:19.914144Z",
+      "fileCount": 1,
+      "fileSize": 645099
+    },
+    {
+      "folderName": "theoneprobe-1.12-1.4.19.jar",
+      "fingerprint": 1025780918,
+      "fileDateHash": 1863962817,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1025780918
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.8986009Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.8435421Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9191514Z",
+      "fileCount": 1,
+      "fileSize": 296264
+    },
+    {
+      "folderName": "FTBUtilities-4.2.3.jar",
+      "fingerprint": 1301938762,
+      "fileDateHash": 1329997361,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1301938762
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:15.688611Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:46.7679357Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9091363Z",
+      "fileCount": 1,
+      "fileSize": 722544
+    },
+    {
+      "folderName": "jei_1.12.2-4.8.0.114.jar",
+      "fingerprint": 1683210712,
+      "fileDateHash": 3259620988,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1683210712
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.3906912Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.7534238Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9091363Z",
+      "fileCount": 1,
+      "fileSize": 509789
+    },
+    {
+      "folderName": "CustomMainMenu-MC1.12.2-2.0.8.jar",
+      "fingerprint": 3863630153,
+      "fileDateHash": 3849271568,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3863630153
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.819279Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:46.6627733Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9071399Z",
+      "fileCount": 1,
+      "fileSize": 176289
+    },
+    {
+      "folderName": "MTLib-3.0.1.jar",
+      "fingerprint": 820080124,
+      "fileDateHash": 1536456413,
+      "sectionID": 6,
+      "individualFingerprints": [
+        820080124
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.7011682Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:46.924178Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9121418Z",
+      "fileCount": 1,
+      "fileSize": 28850
+    },
+    {
+      "folderName": "Bookshelf-1.12.2-2.2.498.jar",
+      "fingerprint": 675340396,
+      "fileDateHash": 3810458507,
+      "sectionID": 6,
+      "individualFingerprints": [
+        675340396
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.3425476Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:45.6932871Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9091363Z",
+      "fileCount": 1,
+      "fileSize": 234270
+    },
+    {
+      "folderName": "CoFHCore-1.12-4.3.6.14-universal.jar",
+      "fingerprint": 549758547,
+      "fileDateHash": 2258808972,
+      "sectionID": 6,
+      "individualFingerprints": [
+        549758547
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.5979379Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:46.4133896Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9101372Z",
+      "fileCount": 1,
+      "fileSize": 681901
+    },
+    {
+      "folderName": "RebornCore-1.12.2-3.4.12.155-universal.jar",
+      "fingerprint": 3757616704,
+      "fileDateHash": 3203128253,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3757616704
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.8044532Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.240293Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9121418Z",
+      "fileCount": 1,
+      "fileSize": 519193
+    },
+    {
+      "folderName": "CD4017BE_lib-1.12.2-6.0.4.jar",
+      "fingerprint": 659410330,
+      "fileDateHash": 3209372133,
+      "sectionID": 6,
+      "individualFingerprints": [
+        659410330
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.398636Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:45.9236404Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9131419Z",
+      "fileCount": 1,
+      "fileSize": 415261
+    },
+    {
+      "folderName": "bdlib-1.14.3.10-mc1.12.2.jar",
+      "fingerprint": 1646579383,
+      "fileDateHash": 4150666772,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1646579383
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.3166328Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.4810131Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9041298Z",
+      "fileCount": 1,
+      "fileSize": 1962376
+    },
+    {
+      "folderName": "rftools-1.12-7.14.jar",
+      "fingerprint": 1977421397,
+      "fileDateHash": 2468339711,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1977421397
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.8124476Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.8155176Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9201572Z",
+      "fileCount": 1,
+      "fileSize": 3342661
+    },
+    {
+      "folderName": "InventoryTweaks-1.63.jar",
+      "fingerprint": 4009982705,
+      "fileDateHash": 559858586,
+      "sectionID": 6,
+      "individualFingerprints": [
+        4009982705
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.331729Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:46.8951296Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9131419Z",
+      "fileCount": 1,
+      "fileSize": 263258
+    },
+    {
+      "folderName": "TechReborn-1.12.2-2.9.0.349-universal.jar",
+      "fingerprint": 1752941469,
+      "fileDateHash": 1035773483,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1752941469
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.8725593Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.3097501Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9081338Z",
+      "fileCount": 1,
+      "fileSize": 2418465
+    },
+    {
+      "folderName": "p455w0rdslib-1.12-2.0.24.jar",
+      "fingerprint": 1077814666,
+      "fileDateHash": 1965681411,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1077814666
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.8003196Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.7784617Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9181562Z",
+      "fileCount": 1,
+      "fileSize": 314322
+    },
+    {
+      "folderName": "FTBLib-4.2.4.jar",
+      "fingerprint": 754215520,
+      "fileDateHash": 4238421769,
+      "sectionID": 6,
+      "individualFingerprints": [
+        754215520
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:15.5493978Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:46.7589211Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9101372Z",
+      "fileCount": 1,
+      "fileSize": 696141
+    },
+    {
+      "folderName": "autoverse-1.12.2-1.1.0.jar",
+      "fingerprint": 3024097014,
+      "fileDateHash": 1669890929,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3024097014
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.3014844Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.4459614Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9061316Z",
+      "fileCount": 1,
+      "fileSize": 809799
+    },
+    {
+      "folderName": "IntegratedDynamics-1.12.2-0.9.6.jar",
+      "fingerprint": 1731068716,
+      "fileDateHash": 3964408498,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1731068716
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.15733Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:46.8901235Z",
+      "queryTimestamp": "2017-11-25T20:07:19.914144Z",
+      "fileCount": 1,
+      "fileSize": 2592267
+    },
+    {
+      "folderName": "DarkUtils-1.12.2-1.7.181.jar",
+      "fingerprint": 2054317405,
+      "fileDateHash": 1430027217,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2054317405
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:15.0225894Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:46.679802Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9101372Z",
+      "fileCount": 1,
+      "fileSize": 531465
+    },
+    {
+      "folderName": "LibVulpes-1.12.2-0.2.6-16-universal.jar",
+      "fingerprint": 3580983307,
+      "fileDateHash": 2040353312,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3580983307
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.3967828Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:46.9181669Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9121418Z",
+      "fileCount": 1,
+      "fileSize": 491885
+    },
+    {
+      "folderName": "Mekanism-1.12.1-9.4.1.326.jar",
+      "fingerprint": 1793997776,
+      "fileDateHash": 4076324185,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1793997776
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.5048633Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.1324952Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9051323Z",
+      "fileCount": 1,
+      "fileSize": 15906397
+    },
+    {
+      "folderName": "BetterFps-1.4.8.jar",
+      "fingerprint": 3051920250,
+      "fileDateHash": 2272441101,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3051920250
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.3395441Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:45.6181723Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9131419Z",
+      "fileCount": 1,
+      "fileSize": 155196
+    },
+    {
+      "folderName": "foamfix-0.8.2-1.12.2-anarchy.jar",
+      "fingerprint": 1533847944,
+      "fileDateHash": 2495685909,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1533847944
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T21:42:52.9471426Z",
+      "lastWriteTimeUtc": "2017-11-25T20:39:50.3709402Z",
+      "queryTimestamp": "2017-11-25T21:42:53.4449039Z",
+      "fileCount": 1,
+      "fileSize": 162748
+    },
+    {
+      "folderName": "CyclopsCore-1.12.2-0.10.23.jar",
+      "fingerprint": 2967475594,
+      "fileDateHash": 3839547518,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2967475594
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.8893865Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:46.67279Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9041298Z",
+      "fileCount": 1,
+      "fileSize": 785738
+    },
+    {
+      "folderName": "crossroads-1.12-1.6.5.jar",
+      "fingerprint": 2212900408,
+      "fileDateHash": 1823640876,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2212900408
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.7902343Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.5701477Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9061316Z",
+      "fileCount": 1,
+      "fileSize": 2610578
+    },
+    {
+      "folderName": "topaddons-1.12.2-1.1.3.jar",
+      "fingerprint": 1372967136,
+      "fileDateHash": 4027288616,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1372967136
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.9535514Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.8475502Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9191514Z",
+      "fileCount": 1,
+      "fileSize": 183202
+    },
+    {
+      "folderName": "NuclearCraft-2.5a--1.12.2.jar",
+      "fingerprint": 2282244040,
+      "fileDateHash": 434417718,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2282244040
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.7322139Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.230264Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9051323Z",
+      "fileCount": 1,
+      "fileSize": 5766274
+    },
+    {
+      "folderName": "Chisel-MC1.12-0.0.14.18.jar",
+      "fingerprint": 926678366,
+      "fileDateHash": 1109901857,
+      "sectionID": 6,
+      "individualFingerprints": [
+        926678366
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.403764Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:46.2922055Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9041298Z",
+      "fileCount": 1,
+      "fileSize": 17374200
+    },
+    {
+      "folderName": "BrandonsCore-1.12-2.3.4.134-universal.jar",
+      "fingerprint": 3540325505,
+      "fileDateHash": 662811033,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3540325505
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.3455519Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:45.8064587Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9181562Z",
+      "fileCount": 1,
+      "fileSize": 467648
+    },
+    {
+      "folderName": "immersivepetroleum-1.12-1.1.3.jar",
+      "fingerprint": 3733911271,
+      "fileDateHash": 1859035894,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3733911271
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.0591816Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.6672989Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9151449Z",
+      "fileCount": 1,
+      "fileSize": 862014
+    },
+    {
+      "folderName": "RedstoneFlux-1.12-2.0.1.2-universal.jar",
+      "fingerprint": 759163101,
+      "fileDateHash": 758408086,
+      "sectionID": 6,
+      "individualFingerprints": [
+        759163101
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.811464Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.2422973Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9201572Z",
+      "fileCount": 1,
+      "fileSize": 33436
+    },
+    {
+      "folderName": "externaltweaker-1.12-0.3.jar",
+      "fingerprint": 3121577869,
+      "fileDateHash": 632268932,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3121577869
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:15.3752486Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.5841679Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9091363Z",
+      "fileCount": 1,
+      "fileSize": 95259
+    },
+    {
+      "folderName": "MekanismGenerators-1.12.1-9.4.1.326.jar",
+      "fingerprint": 3907255356,
+      "fileDateHash": 1879705429,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3907255356
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.6861463Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.1635429Z",
+      "queryTimestamp": "2017-11-25T20:07:19.916147Z",
+      "fileCount": 1,
+      "fileSize": 338052
+    },
+    {
+      "folderName": "ImmersiveEngineering-0.12-75-core.jar",
+      "fingerprint": 1887503998,
+      "fileDateHash": 3851459312,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1887503998
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:15.8568688Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:46.7889675Z",
+      "queryTimestamp": "0001-01-01T00:00:00",
+      "fileCount": 1,
+      "fileSize": 7235
+    },
+    {
+      "folderName": "deepresonance-1.12-1.4.9.jar",
+      "fingerprint": 3533432728,
+      "fileDateHash": 4269780893,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3533432728
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:15.086687Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.5821653Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9111401Z",
+      "fileCount": 1,
+      "fileSize": 878816
+    },
+    {
+      "folderName": "FactoryTech-1.12.2-1.1.6e.jar",
+      "fingerprint": 3247929163,
+      "fileDateHash": 1960158546,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3247929163
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:15.3772512Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:46.7869649Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9111401Z",
+      "fileCount": 1,
+      "fileSize": 1517708
+    },
+    {
+      "folderName": "CTM-MC1.12-0.2.3.9.jar",
+      "fingerprint": 3904400067,
+      "fileDateHash": 1189831813,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3904400067
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.8162739Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:45.9957504Z",
+      "queryTimestamp": "2017-11-25T20:07:19.916147Z",
+      "fileCount": 1,
+      "fileSize": 181775
+    },
+    {
+      "folderName": "CraftTweaker2-1.12-4.0.10.jar",
+      "fingerprint": 3383909271,
+      "fileDateHash": 2897027420,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3383909271
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.6580311Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:46.659771Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9151449Z",
+      "fileCount": 1,
+      "fileSize": 911201
+    },
+    {
+      "folderName": "ThermalDynamics-1.12-2.3.6.13-universal.jar",
+      "fingerprint": 3690970245,
+      "fileDateHash": 1518513351,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3690970245
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.902474Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.3187634Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9051323Z",
+      "fileCount": 1,
+      "fileSize": 699167
+    },
+    {
+      "folderName": "generators-0.9.20.9-mc1.12.2.jar",
+      "fingerprint": 185703203,
+      "fileDateHash": 1003074413,
+      "sectionID": 6,
+      "individualFingerprints": [
+        185703203
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:15.8379582Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.6572805Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9181562Z",
+      "fileCount": 1,
+      "fileSize": 1671330
+    },
+    {
+      "folderName": "MouseTweaks-2.8-mc1.12.1.jar",
+      "fingerprint": 439035205,
+      "fileDateHash": 1098370217,
+      "sectionID": 6,
+      "individualFingerprints": [
+        439035205
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.699164Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.1675486Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9081338Z",
+      "fileCount": 1,
+      "fileSize": 68793
+    },
+    {
+      "folderName": "ThermalExpansion-1.12-5.3.6.20-universal.jar",
+      "fingerprint": 2077388388,
+      "fileDateHash": 1053684186,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2077388388
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.9104885Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.3498127Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9131419Z",
+      "fileCount": 1,
+      "fileSize": 1876549
+    },
+    {
+      "folderName": "CoFHWorld-1.12-1.0.1.8-universal.jar",
+      "fingerprint": 863957972,
+      "fileDateHash": 1290615667,
+      "sectionID": 6,
+      "individualFingerprints": [
+        863957972
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.6079537Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:46.5315738Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9031273Z",
+      "fileCount": 1,
+      "fileSize": 395753
+    },
+    {
+      "folderName": "ElecCore-1.12.2-1.8.433.jar",
+      "fingerprint": 178162985,
+      "fileDateHash": 3894613532,
+      "sectionID": 6,
+      "individualFingerprints": [
+        178162985
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:15.2490589Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:46.7499086Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9051323Z",
+      "fileCount": 1,
+      "fileSize": 840659
+    },
+    {
+      "folderName": "WirelessCraftingTerminal-1.12.2-3.8.55.jar",
+      "fingerprint": 1978952747,
+      "fileDateHash": 69492423,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1978952747
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:16.9565573Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.3888737Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9101372Z",
+      "fileCount": 1,
+      "fileSize": 311387
+    },
+    {
+      "folderName": "appliedenergistics2-rv5-stable-2.jar",
+      "fingerprint": 3988566260,
+      "fileDateHash": 3846383922,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3988566260
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.2584203Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:47.4349422Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9041298Z",
+      "fileCount": 1,
+      "fileSize": 3521722
+    },
+    {
+      "folderName": "CommonCapabilities-1.12-1.4.0.jar",
+      "fingerprint": 3884302499,
+      "fileDateHash": 2888337772,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3884302499
+      ],
+      "status": 1,
+      "timestamp": "2017-11-25T20:07:14.613092Z",
+      "lastWriteTimeUtc": "2017-11-25T20:02:46.6477505Z",
+      "queryTimestamp": "2017-11-25T20:07:19.9061316Z",
+      "fileCount": 1,
+      "fileSize": 77016
+    }
+  ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2017-11-22T22:34:26.9533783Z",
+  "lastPreviousMatchUpdate": "2017-11-25T21:42:53.7804199Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -596,7 +1647,7 @@
       "dateInstalled": "2017-11-22T22:32:23.8357627Z",
       "dateUpdated": "2017-11-22T22:32:23.8412668Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:23.8412668Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -658,7 +1709,7 @@
       "dateInstalled": "2017-11-22T22:32:29.149344Z",
       "dateUpdated": "2017-11-22T22:32:29.16085Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:29.16085Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -715,7 +1766,7 @@
       "dateInstalled": "2017-11-22T22:32:29.6581078Z",
       "dateUpdated": "2017-11-22T22:32:29.6596087Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:29.6596087Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -776,7 +1827,7 @@
       "dateInstalled": "2017-11-22T22:32:30.3213119Z",
       "dateUpdated": "2017-11-22T22:32:30.3238135Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:30.3238135Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -843,7 +1894,7 @@
       "dateInstalled": "2017-11-22T22:32:30.7611265Z",
       "dateUpdated": "2017-11-22T22:32:30.7631282Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:30.7631282Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -894,7 +1945,7 @@
       "dateInstalled": "2017-11-22T22:32:31.4840355Z",
       "dateUpdated": "2017-11-22T22:32:31.4865363Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:31.4865363Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -949,7 +2000,7 @@
       "dateInstalled": "2017-11-22T22:32:32.094441Z",
       "dateUpdated": "2017-11-22T22:32:32.0969409Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:32.0969409Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1005,7 +2056,7 @@
       "dateInstalled": "2017-11-22T22:32:32.7360102Z",
       "dateUpdated": "2017-11-22T22:32:32.738012Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:32.738012Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1059,7 +2110,7 @@
       "dateInstalled": "2017-11-22T22:32:33.5514807Z",
       "dateUpdated": "2017-11-22T22:32:33.5529817Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:33.5529817Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1117,7 +2168,7 @@
       "dateInstalled": "2017-11-22T22:32:33.9828799Z",
       "dateUpdated": "2017-11-22T22:32:33.9848829Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:33.9848829Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1173,7 +2224,7 @@
       "dateInstalled": "2017-11-22T22:32:34.3535884Z",
       "dateUpdated": "2017-11-22T22:32:34.355089Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:34.355089Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1238,7 +2289,7 @@
       "dateInstalled": "2017-11-22T22:32:34.8120038Z",
       "dateUpdated": "2017-11-22T22:32:34.8140047Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:34.8140047Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1311,7 +2362,7 @@
       "dateInstalled": "2017-11-22T22:32:36.1038635Z",
       "dateUpdated": "2017-11-22T22:32:36.1083665Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:36.1083665Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1364,7 +2415,7 @@
       "dateInstalled": "2017-11-22T22:32:36.7473712Z",
       "dateUpdated": "2017-11-22T22:32:36.8169164Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:36.8169164Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1426,7 +2477,7 @@
       "dateInstalled": "2017-11-22T22:32:37.3657281Z",
       "dateUpdated": "2017-11-22T22:32:37.367732Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:37.367732Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1479,7 +2530,7 @@
       "dateInstalled": "2017-11-22T22:32:37.8052224Z",
       "dateUpdated": "2017-11-22T22:32:37.8067225Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:37.8067225Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1541,7 +2592,7 @@
       "dateInstalled": "2017-11-22T22:32:38.7412244Z",
       "dateUpdated": "2017-11-22T22:32:38.7437256Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:38.7437256Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1590,7 +2641,7 @@
       "dateInstalled": "2017-11-22T22:32:39.291064Z",
       "dateUpdated": "2017-11-22T22:32:39.2935653Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:39.2935653Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1656,7 +2707,7 @@
       "dateInstalled": "2017-11-22T22:32:40.1745509Z",
       "dateUpdated": "2017-11-22T22:32:40.1775525Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:40.1775525Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1714,7 +2765,7 @@
       "dateInstalled": "2017-11-22T22:32:40.757994Z",
       "dateUpdated": "2017-11-22T22:32:40.7599954Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:40.7599954Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1792,7 +2843,7 @@
       "dateInstalled": "2017-11-22T22:32:42.529969Z",
       "dateUpdated": "2017-11-22T22:32:42.5354748Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:42.5354748Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1862,7 +2913,7 @@
       "dateInstalled": "2017-11-22T22:32:43.1587285Z",
       "dateUpdated": "2017-11-22T22:32:43.1607289Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:43.1607289Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1925,7 +2976,7 @@
       "dateInstalled": "2017-11-22T22:32:44.6183677Z",
       "dateUpdated": "2017-11-22T22:32:44.6228711Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:44.6228711Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1980,7 +3031,7 @@
       "dateInstalled": "2017-11-22T22:32:45.228783Z",
       "dateUpdated": "2017-11-22T22:32:45.2307835Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:45.2307835Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2040,7 +3091,7 @@
       "dateInstalled": "2017-11-22T22:32:45.7267631Z",
       "dateUpdated": "2017-11-22T22:32:45.7292652Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:45.7292652Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2101,7 +3152,7 @@
       "dateInstalled": "2017-11-22T22:32:48.008292Z",
       "dateUpdated": "2017-11-22T22:32:48.0142951Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:48.0142951Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2152,7 +3203,7 @@
       "dateInstalled": "2017-11-22T22:32:48.45581Z",
       "dateUpdated": "2017-11-22T22:32:48.4578122Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:48.4578122Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2217,7 +3268,7 @@
       "dateInstalled": "2017-11-22T22:32:48.9853456Z",
       "dateUpdated": "2017-11-22T22:32:48.9873465Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:48.9873465Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2270,7 +3321,7 @@
       "dateInstalled": "2017-11-22T22:32:49.8955583Z",
       "dateUpdated": "2017-11-22T22:32:49.8980604Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:49.8980604Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2340,7 +3391,7 @@
       "dateInstalled": "2017-11-22T22:32:50.7741603Z",
       "dateUpdated": "2017-11-22T22:32:50.7766607Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:50.7766607Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2391,7 +3442,7 @@
       "dateInstalled": "2017-11-22T22:32:51.406083Z",
       "dateUpdated": "2017-11-22T22:32:51.4085842Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:51.4085842Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2473,7 +3524,7 @@
       "dateInstalled": "2017-11-22T22:32:52.0704571Z",
       "dateUpdated": "2017-11-22T22:32:52.0729485Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:52.0729485Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2530,7 +3581,7 @@
       "dateInstalled": "2017-11-22T22:32:52.601229Z",
       "dateUpdated": "2017-11-22T22:32:52.6032308Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:52.6032308Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2592,7 +3643,7 @@
       "dateInstalled": "2017-11-22T22:32:53.0200391Z",
       "dateUpdated": "2017-11-22T22:32:53.0215405Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:53.0215405Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2662,7 +3713,7 @@
       "dateInstalled": "2017-11-22T22:32:53.4064136Z",
       "dateUpdated": "2017-11-22T22:32:53.4084145Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:53.4084145Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2713,7 +3764,7 @@
       "dateInstalled": "2017-11-22T22:32:54.0005125Z",
       "dateUpdated": "2017-11-22T22:32:54.0025091Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:54.0025091Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2771,7 +3822,7 @@
       "dateInstalled": "2017-11-22T22:32:54.421122Z",
       "dateUpdated": "2017-11-22T22:32:54.4226136Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:54.4226136Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2831,7 +3882,7 @@
       "dateInstalled": "2017-11-22T22:32:55.5101024Z",
       "dateUpdated": "2017-11-22T22:32:55.5136047Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:55.5136047Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2896,7 +3947,7 @@
       "dateInstalled": "2017-11-22T22:32:56.032006Z",
       "dateUpdated": "2017-11-22T22:32:56.0340078Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:56.0340078Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2962,7 +4013,7 @@
       "dateInstalled": "2017-11-22T22:32:57.30028Z",
       "dateUpdated": "2017-11-22T22:32:57.3037626Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:57.3037626Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3031,7 +4082,7 @@
       "dateInstalled": "2017-11-22T22:32:59.2873825Z",
       "dateUpdated": "2017-11-22T22:32:59.2923859Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:59.2923859Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3093,7 +4144,7 @@
       "dateInstalled": "2017-11-22T22:32:59.9122215Z",
       "dateUpdated": "2017-11-22T22:32:59.9142237Z",
       "dateLastUpdateAttempted": "2017-11-22T22:32:59.9142237Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3144,7 +4195,7 @@
       "dateInstalled": "2017-11-22T22:33:00.4213303Z",
       "dateUpdated": "2017-11-22T22:33:00.4243319Z",
       "dateLastUpdateAttempted": "2017-11-22T22:33:00.4243319Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3200,7 +4251,7 @@
       "dateInstalled": "2017-11-22T22:33:04.0758462Z",
       "dateUpdated": "2017-11-22T22:33:04.0848534Z",
       "dateLastUpdateAttempted": "2017-11-22T22:33:04.0848534Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3257,7 +4308,7 @@
       "dateInstalled": "2017-11-22T22:33:04.6512293Z",
       "dateUpdated": "2017-11-22T22:33:04.6532289Z",
       "dateLastUpdateAttempted": "2017-11-22T22:33:04.6532289Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3337,7 +4388,7 @@
       "dateInstalled": "2017-11-22T22:33:06.5614407Z",
       "dateUpdated": "2017-11-22T22:33:06.5669435Z",
       "dateLastUpdateAttempted": "2017-11-22T22:33:06.5669435Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3390,7 +4441,7 @@
       "dateInstalled": "2017-11-22T22:33:07.0648496Z",
       "dateUpdated": "2017-11-22T22:33:07.0668518Z",
       "dateLastUpdateAttempted": "2017-11-22T22:33:07.0668518Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3452,7 +4503,7 @@
       "dateInstalled": "2017-11-22T22:33:08.463495Z",
       "dateUpdated": "2017-11-22T22:33:08.4669986Z",
       "dateLastUpdateAttempted": "2017-11-22T22:33:08.4669986Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3505,7 +4556,7 @@
       "dateInstalled": "2017-11-22T22:33:08.9926222Z",
       "dateUpdated": "2017-11-22T22:33:08.9946235Z",
       "dateLastUpdateAttempted": "2017-11-22T22:33:08.9946235Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3560,7 +4611,7 @@
       "dateInstalled": "2017-11-22T22:33:09.7498891Z",
       "dateUpdated": "2017-11-22T22:33:09.7528911Z",
       "dateLastUpdateAttempted": "2017-11-22T22:33:09.7528911Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3616,7 +4667,7 @@
       "dateInstalled": "2017-11-22T22:33:14.0204868Z",
       "dateUpdated": "2017-11-22T22:33:14.0334946Z",
       "dateLastUpdateAttempted": "2017-11-22T22:33:14.0334946Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3671,7 +4722,7 @@
       "dateInstalled": "2017-11-22T22:33:15.1645302Z",
       "dateUpdated": "2017-11-22T22:33:15.1715352Z",
       "dateLastUpdateAttempted": "2017-11-22T22:33:15.1715352Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3741,7 +4792,7 @@
       "dateInstalled": "2017-11-22T22:33:15.6221326Z",
       "dateUpdated": "2017-11-22T22:33:15.6241344Z",
       "dateLastUpdateAttempted": "2017-11-22T22:33:15.6241344Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3829,7 +4880,7 @@
       "dateInstalled": "2017-11-22T22:33:16.095366Z",
       "dateUpdated": "2017-11-22T22:33:16.0973673Z",
       "dateLastUpdateAttempted": "2017-11-22T22:33:16.0973673Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3883,7 +4934,365 @@
       "dateInstalled": "2017-11-22T22:33:16.5181838Z",
       "dateUpdated": "2017-11-22T22:33:16.5196852Z",
       "dateLastUpdateAttempted": "2017-11-22T22:33:16.5196852Z",
-      "status": 4,
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 245194,
+      "gameInstanceID": "dd8050db-cd42-46c5-b828-b048c5cecb2c",
+      "installedFile": {
+        "Id": 2495309,
+        "FileName": "autoverse-1.12.2-1.1.0.jar",
+        "FileNameOnDisk": "autoverse-1.12.2-1.1.0.jar",
+        "FileDate": "2017-10-29T11:14:20.25",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2495/309/autoverse-1.12.2-1.1.0.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 3356333423
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 1830803103
+          },
+          {
+            "Foldername": "fi",
+            "Fingerprint": 622029910
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3411195850
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 2073142610
+          }
+        ],
+        "PackageFingerprint": 3024097014,
+        "GameVersion": [
+          "1.12.2",
+          "1.12.1",
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-11-25T20:07:21.0086647Z",
+      "dateUpdated": "2016-11-25T20:07:21.0086647Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 61811,
+      "gameInstanceID": "dd8050db-cd42-46c5-b828-b048c5cecb2c",
+      "installedFile": {
+        "Id": 2502741,
+        "FileName": "Buildcraft 7.99.12",
+        "FileNameOnDisk": "buildcraft-7.99.12.jar",
+        "FileDate": "2017-11-23T09:02:17.2",
+        "ReleaseType": 3,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2502/741/buildcraft-7.99.12.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "LICENSE.BUILDCRAFT",
+            "Fingerprint": 1356352336
+          },
+          {
+            "Foldername": "LICENSE.DEJAVU",
+            "Fingerprint": 2184999757
+          },
+          {
+            "Foldername": "README.md",
+            "Fingerprint": 3542441818
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 2649824425
+          },
+          {
+            "Foldername": "buildcraft",
+            "Fingerprint": 4259504052
+          },
+          {
+            "Foldername": "changelog",
+            "Fingerprint": 2820176746
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 4183837025
+          },
+          {
+            "Foldername": "versions.txt",
+            "Fingerprint": 205147306
+          }
+        ],
+        "PackageFingerprint": 3098659980,
+        "GameVersion": [
+          "1.12.2"
+        ]
+      },
+      "dateInstalled": "2017-11-25T20:07:21.0196856Z",
+      "dateUpdated": "2016-11-25T20:07:21.0196856Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 253462,
+      "gameInstanceID": "dd8050db-cd42-46c5-b828-b048c5cecb2c",
+      "installedFile": {
+        "Id": 2497458,
+        "FileName": "StevesCarts-1.12.2-2.4.12.62.jar",
+        "FileNameOnDisk": "StevesCarts-1.12.2-2.4.12.62.jar",
+        "FileDate": "2017-11-05T12:07:49.503",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2497/458/StevesCarts-1.12.2-2.4.12.62.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 237903,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 1642417187
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 2495846109
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 4109743261
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 287988697
+          },
+          {
+            "Foldername": "vswe",
+            "Fingerprint": 2894732046
+          }
+        ],
+        "PackageFingerprint": 3828494986,
+        "GameVersion": [
+          "1.12.2",
+          "1.12.1",
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-11-25T20:07:21.0236896Z",
+      "dateUpdated": "2016-11-25T20:07:21.0236896Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 229507,
+      "gameInstanceID": "dd8050db-cd42-46c5-b828-b048c5cecb2c",
+      "installedFile": {
+        "Id": 2497755,
+        "FileName": "AutomatedRedstone-1.12.2-6.0.2.jar",
+        "FileNameOnDisk": "AutomatedRedstone-1.12.2-6.0.2.jar",
+        "FileDate": "2017-11-06T18:09:20.957",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2497/755/AutomatedRedstone-1.12.2-6.0.2.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 229208,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "cd4017be",
+            "Fingerprint": 3794225036
+          },
+          {
+            "Foldername": "multiblock",
+            "Fingerprint": 503466310
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 955069390
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3894896631
+          }
+        ],
+        "PackageFingerprint": 3822580645,
+        "GameVersion": [
+          "1.12.2"
+        ]
+      },
+      "dateInstalled": "2017-11-25T20:07:21.025755Z",
+      "dateUpdated": "2016-11-25T20:07:21.025755Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 3,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 229208,
+      "gameInstanceID": "dd8050db-cd42-46c5-b828-b048c5cecb2c",
+      "installedFile": {
+        "Id": 2501865,
+        "FileName": "CD4017BE_lib-1.12.2-6.0.4.jar",
+        "FileNameOnDisk": "CD4017BE_lib-1.12.2-6.0.4.jar",
+        "FileDate": "2017-11-20T14:36:32.35",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2501/865/CD4017BE_lib-1.12.2-6.0.4.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 1784033235
+          },
+          {
+            "Foldername": "cd4017be",
+            "Fingerprint": 1739455225
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 3067002426
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 463228834
+          }
+        ],
+        "PackageFingerprint": 659410330,
+        "GameVersion": [
+          "1.12.2"
+        ]
+      },
+      "dateInstalled": "2017-11-25T20:07:21.0387107Z",
+      "dateUpdated": "2016-11-25T20:07:21.0387107Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 3,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 268566,
+      "gameInstanceID": "dd8050db-cd42-46c5-b828-b048c5cecb2c",
+      "installedFile": {
+        "Id": 2475790,
+        "FileName": "MekanismGenerators-1.12.1-9.4.1.326.jar",
+        "FileNameOnDisk": "MekanismGenerators-1.12.1-9.4.1.326.jar",
+        "FileDate": "2017-09-04T19:13:26.13",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2475/790/MekanismGenerators-1.12.1-9.4.1.326.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 268560,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 2950327847
+          },
+          {
+            "Foldername": "mekanism",
+            "Fingerprint": 1722373661
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3821308169
+          }
+        ],
+        "PackageFingerprint": 3907255356,
+        "GameVersion": [
+          "1.12.1",
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2017-11-25T20:07:21.044719Z",
+      "dateUpdated": "2016-11-25T20:07:21.044719Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
