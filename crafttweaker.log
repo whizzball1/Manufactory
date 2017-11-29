@@ -1,4 +1,15 @@
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
 [INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
 [INITIALIZATION][CLIENT][INFO] Loading scripts
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Redstoneworks.zs}
+[INITIALIZATION][CLIENT][INFO] Adding Chop Saw recipe for 1xitem.techreborn.gem@0 -> 1xitem.techreborn.dust@43
+[INITIALIZATION][CLIENT][INFO] Adding Grindstone recipe for 1xitem.factorytech.ingot@0 -> 1xitem.factorytech.ore_dust@8
+[INITIALIZATION][CLIENT][INFO] Adding Centrifuge recipe for 1xtile.sand@0 -> [Lnet.minecraft.item.ItemStack;@2d358f24
+[INITIALIZATION][CLIENT][INFO] Adding Chop Saw recipe for 1xtile.stone@0 -> 2xtile.stoneSlab@0
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <factorytech:circuit_intermediate:4>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:stone_slab>
+[POSTINITIALIZATION][CLIENT][INFO] Removing all recipes for <minecraft:repeater>
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Redstone with name copperRubyRedstone
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Copper Filled Quartz Plate (Pattern 1) with name ct_shaped995846834
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Redstone Repeater with name ct_shaped-1143965967
 [SERVER_STARTED][CLIENT][INFO] Fixed the RecipeBook

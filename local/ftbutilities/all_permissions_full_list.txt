@@ -1,4 +1,4 @@
-6781 nodes in total
+6838 nodes in total
 Modifying this file won't have any effect!
 
 block.tap: ALL
@@ -75,6 +75,8 @@ command.ftb.edit_config.brandon3055\DraconicEvolution: CMD
 command.ftb.edit_config.buildcraft\main: CMD
 command.ftb.edit_config.buildcraft\objects: CMD
 command.ftb.edit_config.chisel: CMD
+command.ftb.edit_config.chiselsandbits: CMD
+command.ftb.edit_config.chiselsandbits_clipboard: CMD
 command.ftb.edit_config.cofh\core\client: CMD
 command.ftb.edit_config.cofh\core\common: CMD
 command.ftb.edit_config.cofh\core\friends: CMD
@@ -746,6 +748,21 @@ ftbu.claims.block.edit.chisel.wool_purple: OP
 ftbu.claims.block.edit.chisel.wool_red: OP
 ftbu.claims.block.edit.chisel.wool_white: OP
 ftbu.claims.block.edit.chisel.wool_yellow: OP
+ftbu.claims.block.edit.chiselsandbits.bittank: OP
+ftbu.claims.block.edit.chiselsandbits.chiseled_clay: OP
+ftbu.claims.block.edit.chiselsandbits.chiseled_cloth: OP
+ftbu.claims.block.edit.chiselsandbits.chiseled_fluid: OP
+ftbu.claims.block.edit.chiselsandbits.chiseled_glass: OP
+ftbu.claims.block.edit.chiselsandbits.chiseled_grass: OP
+ftbu.claims.block.edit.chiselsandbits.chiseled_ground: OP
+ftbu.claims.block.edit.chiselsandbits.chiseled_ice: OP
+ftbu.claims.block.edit.chiselsandbits.chiseled_iron: OP
+ftbu.claims.block.edit.chiselsandbits.chiseled_leaves: OP
+ftbu.claims.block.edit.chiselsandbits.chiseled_packedice: OP
+ftbu.claims.block.edit.chiselsandbits.chiseled_rock: OP
+ftbu.claims.block.edit.chiselsandbits.chiseled_sand: OP
+ftbu.claims.block.edit.chiselsandbits.chiseled_snow: OP
+ftbu.claims.block.edit.chiselsandbits.chiseled_wood: OP
 ftbu.claims.block.edit.circuits.assembler: OP
 ftbu.claims.block.edit.circuits.bit_shifter: OP
 ftbu.claims.block.edit.circuits.circuit: OP
@@ -2560,6 +2577,21 @@ ftbu.claims.block.interact.chisel.wool_purple: OP
 ftbu.claims.block.interact.chisel.wool_red: OP
 ftbu.claims.block.interact.chisel.wool_white: OP
 ftbu.claims.block.interact.chisel.wool_yellow: OP
+ftbu.claims.block.interact.chiselsandbits.bittank: OP
+ftbu.claims.block.interact.chiselsandbits.chiseled_clay: OP
+ftbu.claims.block.interact.chiselsandbits.chiseled_cloth: OP
+ftbu.claims.block.interact.chiselsandbits.chiseled_fluid: OP
+ftbu.claims.block.interact.chiselsandbits.chiseled_glass: OP
+ftbu.claims.block.interact.chiselsandbits.chiseled_grass: OP
+ftbu.claims.block.interact.chiselsandbits.chiseled_ground: OP
+ftbu.claims.block.interact.chiselsandbits.chiseled_ice: OP
+ftbu.claims.block.interact.chiselsandbits.chiseled_iron: OP
+ftbu.claims.block.interact.chiselsandbits.chiseled_leaves: OP
+ftbu.claims.block.interact.chiselsandbits.chiseled_packedice: OP
+ftbu.claims.block.interact.chiselsandbits.chiseled_rock: OP
+ftbu.claims.block.interact.chiselsandbits.chiseled_sand: OP
+ftbu.claims.block.interact.chiselsandbits.chiseled_snow: OP
+ftbu.claims.block.interact.chiselsandbits.chiseled_wood: OP
 ftbu.claims.block.interact.circuits.assembler: OP
 ftbu.claims.block.interact.circuits.bit_shifter: OP
 ftbu.claims.block.interact.circuits.circuit: OP
@@ -4516,6 +4548,33 @@ ftbu.claims.item.chisel.wool_purple: ALL
 ftbu.claims.item.chisel.wool_red: ALL
 ftbu.claims.item.chisel.wool_white: ALL
 ftbu.claims.item.chisel.wool_yellow: ALL
+ftbu.claims.item.chiselsandbits.bit_bag: ALL
+ftbu.claims.item.chiselsandbits.bitsaw_diamond: ALL
+ftbu.claims.item.chiselsandbits.bittank: ALL
+ftbu.claims.item.chiselsandbits.block_bit: ALL
+ftbu.claims.item.chiselsandbits.chisel_diamond: ALL
+ftbu.claims.item.chiselsandbits.chisel_gold: ALL
+ftbu.claims.item.chiselsandbits.chisel_iron: ALL
+ftbu.claims.item.chiselsandbits.chisel_stone: ALL
+ftbu.claims.item.chiselsandbits.chiseled_clay: ALL
+ftbu.claims.item.chiselsandbits.chiseled_cloth: ALL
+ftbu.claims.item.chiselsandbits.chiseled_fluid: ALL
+ftbu.claims.item.chiselsandbits.chiseled_glass: ALL
+ftbu.claims.item.chiselsandbits.chiseled_grass: ALL
+ftbu.claims.item.chiselsandbits.chiseled_ground: ALL
+ftbu.claims.item.chiselsandbits.chiseled_ice: ALL
+ftbu.claims.item.chiselsandbits.chiseled_iron: ALL
+ftbu.claims.item.chiselsandbits.chiseled_leaves: ALL
+ftbu.claims.item.chiselsandbits.chiseled_packedice: ALL
+ftbu.claims.item.chiselsandbits.chiseled_rock: ALL
+ftbu.claims.item.chiselsandbits.chiseled_sand: ALL
+ftbu.claims.item.chiselsandbits.chiseled_snow: ALL
+ftbu.claims.item.chiselsandbits.chiseled_wood: ALL
+ftbu.claims.item.chiselsandbits.mirrorprint: ALL
+ftbu.claims.item.chiselsandbits.negativeprint: ALL
+ftbu.claims.item.chiselsandbits.positiveprint: ALL
+ftbu.claims.item.chiselsandbits.tape_measure: ALL
+ftbu.claims.item.chiselsandbits.wrench_wood: ALL
 ftbu.claims.item.circuits.assembler: ALL
 ftbu.claims.item.circuits.bit_shifter: ALL
 ftbu.claims.item.circuits.circuit: ALL
